@@ -1,4 +1,6 @@
 url
+https://github.com/githcc/bucket_scoop.git
+https://github.com/gendloop/gendloopBucket.git
 https://github.com/okibcn/Bucket.git
 https://github.com/82p/scoop-yubico-bucket.git
 https://github.com/Alxandr/scoop-bucket.git
